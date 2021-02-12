@@ -1,0 +1,13 @@
+(!=) = not equal
+(==) = is equal
+(<=) = equal or less
+(>=) = equal or greater
+seed != 3
+seed is not divisible by 3
+seed =< 7
+seed is not a prime number
+seed == ?
+
+60 104 72 88 72 88 84 60 52 88 60
+
+

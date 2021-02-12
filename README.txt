@@ -1,5 +1,6 @@
 this is a python file to make a secret code
 you and your friend decide on a seed or password(only numbers)
+or you can do a puzzle(example at end)
 then letter by letter you write your message
 i hope you can understand how to use this
 By Sammyjam1

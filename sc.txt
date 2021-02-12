@@ -1,3 +1,8 @@
+this is a python file to make a secret code
+you and your friend decide on a seed or password(only numbers)
+then letter by letter you write your message
+i hope you can understand how to use this
+By Sammyjam1
 (!=) = not equal
 (==) = is equal
 (<=) = equal or less
